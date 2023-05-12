@@ -6,7 +6,7 @@ if __name__ == '__main__':
     if n >= 1 and n <= 100:
         # Check the conditions based on the given problem statement
 
-        # If n is odd
+        # If n is odd number
         if n % 2 != 0:
             print("Weird")
 
