@@ -7,3 +7,4 @@ if __name__ == '__main__':
 
     # Join the numbers using an empty string as the separator and print on one line
     print(''.join(numbers))
+    
